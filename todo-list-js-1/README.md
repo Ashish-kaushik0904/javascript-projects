@@ -1,20 +1,22 @@
-# JavaScript Projects 🚀
+# 📝 To-Do List App
 
-This repository contains beginner to intermediate JavaScript projects 
-created to strengthen my frontend and DOM manipulation skills.
+A simple and interactive **To-Do List web application** built using **HTML, CSS, and Vanilla JavaScript**.  
+This project helps users manage daily tasks efficiently with a clean and user-friendly interface.
 
-## 🧠 Skills Used
-- HTML5
-- CSS3
-- JavaScript (DOM, Events, Logic)
+---
 
-## 📂 Projects
-1:- To-Do List
+## 🚀 Features
 
-## 🎯 Goal
-To build strong JavaScript fundamentals and prepare for internships 
-and placement opportunities.
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- ❌ Delete tasks
+- 💾 Tasks remain until page refresh
+- 📱 Responsive and clean UI
 
-## 👤 Author
-**Ashish Kaushik**  
-MCA Student | Aspiring Software Engineer | Full Stack Web Developer
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure
+- **CSS3** – Styling & layout
+- **JavaScript (ES6)** – DOM manipulation & logic
